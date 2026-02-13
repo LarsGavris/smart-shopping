@@ -30,6 +30,10 @@ cp .env.example .env
 - `NEXT_PUBLIC_API_URL`: frontend base URL for API requests.
 - `API_PORT`, `FRONTEND_PORT`, `POSTGRES_PORT`: host-exposed ports.
 
+## Local setup backlog
+
+- Track and file local bring-up tasks from: `docs/LOCAL_RUN_OPEN_ISSUES.md`.
+
 ## Local development
 
 ```bash
